@@ -1,0 +1,37 @@
+
+.first{
+    text-align: center;
+    margin-bottom: none;
+    background-color: white;
+}
+
+.btn1{
+	background-color: rgba(0, 150, 255, 0.5);
+	height: 50px;
+	width: 100px;
+}
+.form{
+	 margin-top: 300px;
+	 margin-right: 500px;
+	 margin-left: 500px;    
+     background-color: rgba(0, 100, 255, 0.1);
+     text-align: center;
+}
+.colour{
+       height: 30px;
+       margin-bottom: 20px;
+}
+.form-title{
+	text-align: center;
+}
+.opener{
+	height: 30px;
+	margin-bottom: 20px;
+}
+body{
+	background-image: URL("https://cdn2.vectorstock.com/i/1000x1000/18/26/bright-sun-effect-background-vector-1031826.jpg");
+	background-repeat: no-repeat;
+    background-size: 1700px;
+    
+}
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Log in forms</title>
+</head>
+<body>
+
+	<!-- user GET, not POST -->
+	<title>Log in forms</title>
+	<form method="GET">
+	First Name: <input type="text" name=firstname required><br>
+	Last Name: <input type="text" name="lastname" required><br>
+	Date Of Birth: <input type="date" name="date"><br>
+	Email: <input type="email" name="email" required><br>
+	Password: <input type="password" name="password" minlength="5" maxlength="5"><br>
+	Gender: <input type="radio" name="gender" value="Male">Male
+	<input type="radio" name="gender" value="Female" required>Female<br>
+	Siblings: <input type="checkbox">Brother 
+	<select name="Siblings">
+	<option value="1">0-5</option> 
+	<option value="2">5-10</option>
+	<option value="More">More</option>
+	</select>
+	Siblings: <input type="checkbox">Sister 
+	<select>
+	<option value="1">0-5</option> 
+	<option value="2">5-10</option>
+	<option value="More">More</option>
+	</select><br>
+	<input type="submit" value="Log in">
+	<input type="reset">
+
+
+	</form>
+
+</body>
+</html>

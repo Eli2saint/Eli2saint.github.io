@@ -1,0 +1,28 @@
+.container{
+	display: flex;
+}
+
+
+.btn {
+	font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary{
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+.btn{
+	margin-top: 700px;
+	margin-left: 500px;
+}
+
+body {
+	background-image: URL("nathan-fertig-271363-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: 1700px;
+}

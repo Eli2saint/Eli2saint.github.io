@@ -1,0 +1,33 @@
+.first{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.navbar{
+	margin-left: 200px; 
+	margin-right: 200px; 
+}
+.jumbotron{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.modalfade{
+	margin-left: 200px;
+}
+.img1{
+	height: 400px;
+	margin-left: 200px; 
+}
+.arrownext{
+	color: black;
+}
+.img2{
+	width: 400px;
+	height: 400px;
+	margin-left: 400px;
+}
+.img3{
+	height: 400px;
+	margin-left: 300px;
+}
